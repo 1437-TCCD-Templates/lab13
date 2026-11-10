@@ -15,12 +15,3 @@ Is the derived `play()` overriding or hiding the base `play()`? How would a call
 ## 3. protected
 
 What does `protected` allow that `private` does not? Why is `set_score` `protected` instead of `public`?
-
-## 4. Procedural versus object-oriented Hangman
-
-Four bullets comparing your Week 1 procedural Hangman with the class version:
-
-- Where the data lives:
-- Who can change it:
-- How you would add a second Hangman variant:
-- How you would test it:
